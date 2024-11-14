@@ -1,0 +1,26 @@
+Start winver.exe
+Start 7ttsetuptinprogram,exe
+Start help.exe
+Start help.exe
+Start help.exe
+Start help.exe
+Start regedit.exe
+Start Kalimba.mp3
+Start mash_full_setup.exe
+Start Wildlife.wmv
+Start Monoxidex86.harmless.exe
+Start Destroy.exe
+Start Troy.exe
+Start explorer.exe
+Start help.exe
+Start help.exe
+Start help.exe
+Start help.exe
+Start help.exe
+Start help.exe
+Start help.exe
+Start help.exe
+Start help.exe
+msg * YOUR PC IS GONE!
+Start calc.exe
+Start SpawnAllMash.exe
